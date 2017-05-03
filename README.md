@@ -1,2 +1,11 @@
-# python-part-code
-工具小代码收集
+## WHAT
+
+  In my work . I collected some script files for python .
+
+## HOW TO
+
+ -   download .
+ -   run it .
+ 
+  
+
