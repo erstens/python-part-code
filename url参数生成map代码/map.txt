@@ -1,0 +1,8 @@
+sys_flag=TS-CRM
+order_code=2017082216305144
+receipt_type=0
+receipt_amount=18
+receiptor_name=¶Å´ºÑ©
+receipt_time=2017-08-23 15:12:00
+opt_name=¶Å´ºÑ©
+timestamp=1503472359498

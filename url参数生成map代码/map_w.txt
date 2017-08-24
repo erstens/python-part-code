@@ -1,0 +1,9 @@
+Map m1 = new HashMap();
+m1.put("sys_flag","TS-CRM");
+m1.put("order_code","2017082216305144");
+m1.put("receipt_type","0");
+m1.put("receipt_amount","18");
+m1.put("receiptor_name","¶Å´ºÑ©");
+m1.put("receipt_time","2017-08-23 15:12:00");
+m1.put("opt_name","¶Å´ºÑ©");
+m1.put("timestamp","1503472359498");
